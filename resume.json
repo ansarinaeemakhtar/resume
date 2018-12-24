@@ -1,0 +1,62 @@
+{
+  "basics": {
+    "name": "Naeem Akhtar",
+    "currentposition": "Software Engineer FET",
+    "picture": "",
+    "email": "momin.naeemakhtar@gmail.com",
+    "phone": "8956898984",
+    "degree": "B. Sc. [Computer Science]",
+    "website": "",
+    "summary": "With over 9+ years of combined experience in Web Development and Designing, I have worked in the Digital Marketing and Information Technology domains.",
+    "highlights": [
+		"Skilled in developing GUI using HTML, CSS, JavaScript/JQuery, and responsive designs.",
+		"Experience in Responsive Layouts [Bootstrap 3/4].",
+		"Skilled in hand-coding, implementing code and troubleshooting a variety of web development problems.",
+		"Improve accessibility and design of external and internal web applications using semantic markup integrated with server side language like PHP / .NET Environment.",
+		"Experience in LESS & SASS, PHP, and MySQL.",
+		"Thorough subject knowledge, strong analytical and troubleshooting skills with an ability to perform in challenging environments.",
+	],
+	"skill-sets": {
+		"technologies": ["html", "css", "js", "jquery"],
+		"frameworks": ["angular 2+", "bootstrap"]
+	},
+    "location": {
+      "address": "Kondhwa",
+      "postalCode": "411048",
+      "city": "Pune",
+      "countryCode": "+91",
+      "region": "MH"
+    },
+    "profiles": [
+      {
+        "network": "fb",
+        "username": "ansarinaeemakhtar",
+        "url": "https://facebook.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cybage Software Pvt. Ltd.",
+      "position": "Software Engineer",
+      "website": "https://www.cybage.com",
+      "startDate": "28-Jan-2013",
+      "endDate": "till now",
+      "summary": "I have worked on several projects ranging from responsive layouts, CSS, HTML to developing newsletters and Marketing forms & mailers with notable clients like Airtel, WorldBook Online and Google (SEO developer).",
+      "highlights": [
+        "Handled cross browser compatibility issues.",
+		"Helping other team members in fixing cross browser & cross platform CSS issues.",
+		"Worked on various website maintenance tasks to accomplish the same.",
+		"UI development of site using HTML/HTML5, CSS/CSS3 and JavaScript."
+      ]
+    }
+  ],
+  "projects": [
+    "Airtel Portal",
+    "Marketing Communication and Branding",
+    "Worldbook Online",
+    "Jagged Peak",
+    "Facebook application",
+    "Couturize LLC",
+  ]
+}
