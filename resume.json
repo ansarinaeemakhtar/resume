@@ -1,13 +1,29 @@
 {
   "basics": {
     "name": "Naeem Akhtar",
-    "currentposition": "Software Engineer FET",
+    "currentposition": "Software Engineer [FET]",
     "picture": "",
     "email": "momin.naeemakhtar@gmail.com",
     "phone": "8956898984",
-    "degree": "B. Sc. (Computer Science)",
+    "degree": "B. Sc. [Computer Science]",
     "website": "",
-    "education":"B. Sc. (Computer Science)",
+    "education": [
+	    {
+		    "degree": "Bsc [Computer Science]",
+		    "year": "2007",
+		    "board": "Savitribai Phule Pune University"
+	    },
+	    {
+		    "degree": "HSC",
+		    "year": "2003",
+		    "board": "Nasik Board"
+	    },
+	    {
+		    "degree": "SSC",
+		    "year": "2001",
+		    "board": "Nasik Board"
+	    }
+    ],
     "years-of-passing": "2007",
     "training-attended": [
       "HTML Best Practices",
@@ -45,25 +61,50 @@
   "work": [
     {
       "company": "Cybage Software Pvt. Ltd.",
-      "position": "Software Engineer",
       "website": "https://www.cybage.com",
       "startDate": "28-Jan-2013",
       "endDate": "till now",
-      "summary": "I have worked on several projects ranging from responsive layouts, CSS, HTML to developing newsletters and Marketing forms & mailers with notable clients like Airtel, WorldBook Online and Google (SEO developer).",
-      "highlights": [
-        "Handled cross browser compatibility issues.",
-	"Helping other team members in fixing cross browser & cross platform CSS issues.",
-	"Worked on various website maintenance tasks to accomplish the same.",
-	"UI development of site using HTML/HTML5, CSS/CSS3 and JavaScript."
-      ]
+      "summary": "I have worked on several projects ranging from responsive layouts, CSS, HTML to developing newsletters and Marketing forms &amp; mailers with notable clients like Airtel, WorldBook Online and Google (SEO developer)."
+    },
+    {
+      "company": "Social Wavelength (now) Mirum",
+      "website": "http://socialwavelength.com",
+      "startDate": "01-Jan-2011",
+      "endDate": "18-Oct-2013",
+      "summary": "Mainly worked on Facebook Application design and development.  Here I got to sharpen my skills at Photoshop."
+    },
+    {
+      "company": "Bombay IT Solutions and Palsan Business Services",
+      "website": "",
+      "startDate": "00-Jan-2008",
+      "endDate": "00-111-2010",
+      "summary": "I was responsible for designing web templates in Photoshop and converting them in live HTML pages. Gradually I got myself working along with developers and embedding PHP codes."
     }
   ],
   "projects": [
-    "Airtel Portal",
-    "Marketing Communication and Branding",
-    "Worldbook Online",
-    "Jagged Peak",
-    "Facebook application",
-    "Couturize LLC"
+    {
+      "name": "Airtel Portal",
+      "desc": "Airtel KM is about enhancing the user experience and information to improve usability of Airtel's corporate intranet portal etc for end user based on their location and other attributes."
+    },
+    {
+      "name": "Marketing Communications and Branding",
+      "desc": "As part of the project, the deliverables included Cybage’s quarterly newsletter, greeting newsletters to clients, CSR scholarship forms, and client feedback form. My tasks also included front-end development on the Cybage corporate website."
+    }, 
+    {
+      "name": "WorldBook Online",
+      "desc": "Worldbook Online deals with different projects in providing creative methods of learning. I was responsible for creating HTML structure products."
+    }, 
+    {
+      "name": "Jagged Peak",
+      "desc": "Jagged Peak deals with different projects in e-commerce. I was responsible for creating/solving problems faced in the GUI of their websites."
+    }, 
+    {
+      "name": "Facebook Applications",
+      "desc": "Facebook applications consist of basic functionality of collecting user information and inserting into database.  I was responsible for the creating clickable prototypes using HTML, CSS and JS coding."
+    }, 
+    {
+      "name": "Couturize LLC",
+      "desc": "Courturize is dealing with couture/wardrobe selling online. This application was designed to collect information from different retailers what they are selling and at what price. We created different categories for different kind of clothes and they were being displayed as per the categories."
+    }
   ]
 }
