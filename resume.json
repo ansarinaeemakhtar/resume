@@ -40,7 +40,7 @@
 	"Thorough subject knowledge, strong analytical and troubleshooting skills with an ability to perform in challenging environments."
     ],
     "skill-sets": {
-	"technologies": ["html", "css", "js", "jquery"],
+	"technologies": ["html", "css", "javascript", "jquery"],
 	"frameworks": ["angular 2+", "bootstrap"]
     },
     "location": {
